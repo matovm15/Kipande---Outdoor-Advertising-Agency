@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "University Rd",
+        "price": 450000,
+        "image": { "fields": { "file": { "url": "./images/1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "CTF 1",
+        "price": 150000,
+        "image": { "fields": { "file": { "url": "./images/2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "freedom square",
+        "price": 120000,
+        "image": { "fields": { "file": { "url": "./images/3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "freedom square lower lane",
+        "price": 170000,
+        "image": { "fields": { "file": { "url": "./images/4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "COCIS Upper Lane",
+        "price": 150000,
+        "image": { "fields": { "file": { "url": "./images/5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Main gate",
+        "price": 100000,
+        "image": { "fields": { "file": { "url": "./images/6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "CONAS Round-about",
+        "price": 500000,
+        "image": { "fields": { "file": { "url": "./images/9.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Upper Scit - Univ RD",
+        "price": 500000,
+        "image": { "fields": { "file": { "url": "./images/5.jpg" } } }
+      }
+    }
+  ]
+}
